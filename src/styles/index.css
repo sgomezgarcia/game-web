@@ -1,0 +1,118 @@
+body {
+  background: linear-gradient(#f0f2f0, #000c40);
+  height: 100%;
+}
+
+.container {
+  max-width: 1500px;
+  padding-bottom: 15px;
+}
+
+.title2 {
+  font-family: 'Black Ops One', cursive;
+  font-weight: bold;
+  margin: 15px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.games {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 20px;
+  width: 100%;
+
+
+}
+
+.item {
+  width: 100%;
+}
+
+.info {
+  width: 33%;
+  font-weight: bold;
+  margin-bottom: 10px;
+  display: block;
+}
+
+
+.form {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.button-add {
+  font-weight: bold;
+  background-color: white;
+  border: 2px solid #59a9c9;
+  border-radius: 5px;
+  justify-content: flex-end;
+
+}
+
+.new-game {
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.list {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 20px;
+  width: 100%;
+}
+
+.gamer-list {
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.image-player {
+  height: 100%;
+  width: 80px;
+
+}
+
+.game-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.user-info {
+  align-items: center;
+  background: rgba(219, 224, 250, 0.979);
+  border-radius: 5px;
+  border: 1px solid rgb(99, 98, 98);
+  display: flex;
+  flex-direction: row;
+  flex: auto;
+  height: 100px;
+  justify-content: space-around;
+  margin: 5px;
+  padding: 5px;
+  text-transform: capitalize;
+
+}
+
+.bt-borrar {
+  right: inherit;
+}
+
+.carousel{
+  border: 1px solid black;
+  border-radius: 5px;
+}
+}

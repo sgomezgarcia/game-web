@@ -1,0 +1,22 @@
+{
+  "users":[
+    {
+      "id": 1,
+      "nombre": "Lluis",
+      "email": "lluisrc@gmail.com",
+      "sexo" : "mucho"
+    },
+    {
+      "id": 2,
+      "nombre": "Fernando",
+      "email": "fernandobh@gmail.com",
+      "sexo" : "poco"
+    },
+    {
+      "id": 3,
+      "nombre": "Sarah",
+      "email": "saragg@gmail.com",
+      "sexo" : "lo suficiente para ser feliz"
+    }
+  ]
+}
